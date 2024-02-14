@@ -1,6 +1,6 @@
 # 👋 Welcome to @CloudStudyNet's GitHub Profile
 
-This is the official user account for the Cloud Study Network, a community and organization passionately dedicated to the exploration and advancement of cloud computing technologies.
+This is the official user account for the [Cloud Study Network](https://cloudstudy.net), a community and organization passionately dedicated to the exploration and advancement of cloud computing technologies.
 
 ## 👀 We are interested in:
 
