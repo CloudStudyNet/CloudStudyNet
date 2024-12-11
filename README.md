@@ -35,3 +35,5 @@ This is the official user account for the [Cloud Study Network](https://cloudstu
 - Did you know that the first concept of cloud computing dates back to the 1960s? It was introduced by Joseph Carl Robnett Licklider, who envisioned an interconnected system of computers providing data and software access from anywhere.
 
 Thank you for visiting our GitHub page! We are excited to connect, learn, and collaborate with you on all things cloud computing. Feel free to reach out to us through any of the channels mentioned above. Let's soar through the clouds of technology together!
+
+[![An image of @cloudstudynet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cloudstudynet)](https://holopin.io/@cloudstudynet)
